@@ -9,3 +9,6 @@ i have used SCSE in decoder
 
 
 i have used resnet as encoder 
+
+
+A ResNet block is a fundamental building block of residual networks that allows for the training of very deep neural networks by introducing skip connections, which enable the input to bypass one or more layers. This architecture helps mitigate the vanishing gradient problem and allows the network to learn identity functions, improving convergence and overall performance in tasks like image recognition.
